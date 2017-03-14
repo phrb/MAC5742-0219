@@ -9,3 +9,9 @@ também estará na nossa página página no [PACA](http://paca.ime.usp.br).
 O monitor dos dois cursos é o **Pedro Bruel**. Fique à vontade para enviar e-mails com dúvidas para `pedro.bruel@gmail.com`.
 
 Caso queria falar com o Professor Alfredo, envie um e-mail para `gold@ime.usp.br`.
+
+### Conteúdo
+
+- [Vídeos e Slides](https://phrb.github.io/MAC5742-0438/aulas)
+- [EPs](https://phrb.github.io/MAC5742-0438/eps)
+- [Seminários](https://phrb.github.io/MAC5742-0438/seminarios)
