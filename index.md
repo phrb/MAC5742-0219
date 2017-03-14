@@ -14,4 +14,4 @@ Caso queria falar com o Professor Alfredo, envie um e-mail para `gold@ime.usp.br
 
 - [Vídeos e Slides](./aulas.html)
 - [EPs](./eps.html)
-- [Seminários](https://phrb.github.io/MAC5742-0438/seminarios)
+- [Seminários](./seminarios.html)
