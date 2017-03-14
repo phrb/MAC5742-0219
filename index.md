@@ -6,9 +6,9 @@ também estará na nossa página página no [PACA](http://paca.ime.usp.br).
 
 ### Contato
 
-O monitor dos dois cursos é o **Pedro Bruel**. Fique à vontade para enviar e-mails com dúvidas para `pedro.bruel@gmail.com`.
+O monitor dos dois cursos é o **Pedro Bruel**. Fique à vontade para enviar e-mails para `pedro.bruel@gmail.com`.
 
-Caso queria falar com o Professor Alfredo, envie um e-mail para `gold@ime.usp.br`.
+Caso queria falar com o **Professor Alfredo**, envie um e-mail para `gold@ime.usp.br`.
 
 ### Conteúdo
 
