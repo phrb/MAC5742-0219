@@ -10,7 +10,7 @@ Esta página irá conter *links* para **vídeos e slides das aulas**.
 
 ### Aula 1: Introdução 14/03/2017
 
-- [Slides](#aula-1-introdução-14032017)
+- ~~Slides~~ (essa aula não tem slides) :frowning:
 - [Vídeo](#aula-1-introdução-14032017)
 
 [Voltar](#aulas)
