@@ -12,6 +12,6 @@ Caso queria falar com o **Professor Alfredo**, envie um e-mail para `gold@ime.us
 
 ### Conteúdo
 
-- [Vídeos e Slides](./aulas.html)
+- [Aulas: Vídeos e Slides](./aulas.html)
 - [EPs](./eps.html)
 - [Seminários](./seminarios.html)
