@@ -9,6 +9,8 @@ Esta página contém *links* para **vídeos e slides das aulas**.
 - [Aula 1: Introdução 14/03/2017](#aula-1-introdução-14032017)
 - [Aula 2: Arquitetura de Computadores 16/03/2017](#aula-2-arquitetura-de-computadores-16032017)
 
+---
+
 ### Aula 1: Introdução 14/03/2017
 
 - [Vídeo](#aula-1-introdução-14032017) (Ainda não está *online*.)
@@ -20,9 +22,10 @@ Esta página contém *links* para **vídeos e slides das aulas**.
 
 [Voltar para Lista de Aulas](#aulas)
 
+---
+
 ### Aula 2: Arquitetura de Computadores 16/03/2017
 
 - [Vídeo](#aula-2-arquitetura-de-computadores-16032017) (Ainda não está *online*.)
-
 
 [Voltar para Lista de Aulas](#aulas)
