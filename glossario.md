@@ -1,9 +1,20 @@
-### Glossário da Computação Concorrente, Paralela e Distribuída
+## Glossário da Computação Concorrente, Paralela e Distribuída
 
 Este glossário foi elaborado pelos alunos do curso de MAC5742-0438, no
 primeiro semestre de 2015.
 
+### Índice
+
+[A](#a) B [C](#c) [D](#d) E F [G](#g) H [I](#i) [J](#j) K [L](#l) [M](#m) N O
+[P](#p) Q [R](#r) [S](#s) [T](#t) [U](#u) V W X Y Z
+
+---
+
 ### A
+
+[Voltar](#índice)
+
+---
 
 #### Apache Hama
 
@@ -49,7 +60,13 @@ características de arquiteturas, problemas e algoritmos em um domínio para
 definir um espaço de busca que pode ser explorado por diferentes técnicas de
 optimização ou aprendizado de máquina.
 
+---
+
 ### C
+
+[Voltar](#índice)
+
+---
 
 #### Charm++
 
@@ -95,7 +112,13 @@ inventados pela NVIDIA. Ela permite aumentos significativos de performance
 computacional ao aproveitar a potência da unidade de processamento gráfico
 (GPU).
 
+---
+
 ### D
+
+[Voltar](#índice)
+
+---
 
 #### Deep Learning
 
@@ -108,7 +131,13 @@ learning tradicional que utiliza algoritmos  não­ supervisionados e deep
 learning é o método utilizado para extração de características  relevantes para
 a classificação. Deep learning está intimamente ligado à big data
 
+---
+
 ### G
+
+[Voltar](#índice)
+
+---
 
 #### Gargalo de Von Neumann
 
@@ -117,7 +146,7 @@ limitação da taxa de transferência entre a CPU e a memória em comparação c
 quantidade de memória. Esta transferência é menor do que a taxa com que o
 processador consegue trabalhar e menor do que a quantidade de memória em geral
 disponível. Isto faz com  que a CPU seja forçada a esperar por dados que
-precisam ser transferidos para ou a partir da memória. 
+precisam ser transferidos para ou a partir da memória.
 
 #### Go Lang
 
@@ -137,13 +166,13 @@ O projeto de inteligência artificial usando deep learning da Google, o Google
 Brain, já tem mostrado resultados desde 2012. Em um dos primeiros trabalhos
 publicados pela equipe da Google liderada por Andrew Ng em 2012, eles relataram
 os primeiros resultados que o projeto obteve utilizando deep learning. Este
-trabalho foi uma prova de conceito, pois eles 
-queriam determinar se era possível criar um algoritmo para reconhecimento de faces e outros objetos com base em imagens não catalogadas e sem prover nenhum tipo de informação para o algoritmo se a imagem continha ou não uma face. 
+trabalho foi uma prova de conceito, pois eles
+queriam determinar se era possível criar um algoritmo para reconhecimento de faces e outros objetos com base em imagens não catalogadas e sem prover nenhum tipo de informação para o algoritmo se a imagem continha ou não uma face.
 
 #### Graph500
 
 É uma nova lista que tenta classificar supercomputadores usando aplicações
-reais de grafos e redes neuronais. 
+reais de grafos e redes neuronais.
 A lista Graph 500 tem seu origem nos resultados obtidos por investigações feitas por pesquisadores do laboratório Sandia dos E.E.U.U, em particular do Richard Murphy. Em primeiro lugar, Richard Murphy pesquisou a diferença no padrão de acesso a memória de benchmarks focados em operações de ponto-flutuante, em operações com inteiros e outras aplicações usadas no laboratório Sandia [4]. Nestes experimentos se analisam características como a localidade espacial, localidade temporal e a quantidade de dados diferentes acessados por cada aplicação.
 
 #### Grau de paralelismo
@@ -151,14 +180,26 @@ A lista Graph 500 tem seu origem nos resultados obtidos por investigações feit
 Número máximo de processadores que podem estar computacionalmente ativos em um
 determinado instante de tempo, durante a execução de um programa.
 
+---
+
 ### I
+
+[Voltar](#índice)
+
+---
 
 #### INRIA
 
 Institut national de recherche en informatique et en automatique  (French
 Institute for Research in Computer Science and Automation)
 
+---
+
 ### J
+
+[Voltar](#índice)
+
+---
 
 #### Julia
 
@@ -169,7 +210,13 @@ necessidade de uma linguagem que agrupasse o melhor uma s ́erie de linguagens
 excelentes para alguns aspectos da computação científica, mas não tão boas para
 outros aspectos.
 
-### I
+---
+
+### L
+
+[Voltar](#índice)
+
+---
 
 #### LLVM
 
@@ -182,7 +229,13 @@ sua arquitetura permitiu a expansão para outras linguagens posteriormente,
 incluindo Objective-C, Fortran, Ada, Haskell, bytecode Java, Python, Ruby,
 ActionScript, GLSL, Julia, entre outras.
 
+---
+
 ### M
+
+[Voltar](#índice)
+
+---
 
 #### Memcapacitor
 
@@ -253,14 +306,11 @@ paralelo segundo o modelo LogP:
 
 - L: Limite superior da latência, ou retraso, incurrida na comunicação de uma
   mensagem desde uma fonte a um processador destino.
-
 - o: Overhead - tempo durante o qual um processador está ocupado no envio o
   recebo de uma mensagem, durante esse tempo ele não pode fazer computações.
-
 - g: Gap - Tempo mínimo entre transmissões de mensagens consecutivas ou entre o
   recebimento de mensagens consecutivas; o reciproco de $g$ corresponde à
   largura de banda do processador.
-
 - P: Número de Processadores.
 
 #### Modelo PRAM
@@ -270,16 +320,22 @@ James Wyllie em 1976. O Modelo PRAM é uma extensão simples da computação
 paralela do modelo RAM para a computação sequencial. Esse modelo consiste de um
 conjunto infinito de processadores, uma memória centralizada global e infinita,
 um conjunto de registradores de entrada e um programa finito representado pela
-máquina de Turing ou a aplicação paralela. 
+máquina de Turing ou a aplicação paralela.
 
 A vantagem do PRAM é sua simplicidade e sua similaridade ao modelo sequencial
 de Von Neuman. O processador pode ler o escrever somente uma endereço em um
 tempo. O custo de escrita é igual ao custo de leitura, e também é igual o custo
 de qualquer operação executada pelo processador. Porém de sua simplicidade,
 devido ao incremento da brecha entre o processamento e à velocidade de
-comunicação, esse modelo tornou se cada dia mais irrealista. 
+comunicação, esse modelo tornou se cada dia mais irrealista.
+
+---
 
 ### P
+
+[Voltar](#índice)
+
+---
 
 #### Program Profiling
 
@@ -296,9 +352,15 @@ assíncronas de funções, composição de chamadas e controle de execuções.  
 padronização ao quanto à terminologia utilizada pelas implementações nas
 diferentes linguagens de programação. De acordo com essa definição, pode-se
 dizer que promise  é uma referência que armazenar ́a o resultado da execução ao
-de um deferred, que  ́e uma computação assíncrona ainda não concluída.
+de um deferred, uma computação assíncrona ainda não concluída.
+
+---
 
 ### R
+
+[Voltar](#índice)
+
+---
 
 #### RamCoud
 
@@ -327,7 +389,13 @@ genéricos. Os princípios gerais que guiam o desenvolvimento da linguagem são:
 não deixar a segurança de memória ser comprometida, abstrações não devem custar
 nada no tempo de execução, praticidade é a chave[des].
 
+---
+
 ### S
+
+[Voltar](#índice)
+
+---
 
 #### Scala
 
@@ -341,7 +409,7 @@ de bibliotecas, arcabouços e outras ferramentas Java existentes diretamente em
 Scala. Ao mesmo tempo, ferramentas desenvolvidas em Scala podem ser utilizadas
 em Java.
 
-#### SLURM 
+#### SLURM
 
 SLURM, ou Simple Linux Utility for Resource Management ("utilitário simples
 para gerenciamento de recursos em Linux", em tradução livre), é um sistema de
@@ -374,7 +442,13 @@ ser predito pela Lei de Amdahl).
 
 Uma biblioteca de programação para arquiteturas híbridas.
 
+---
+
 ### T
+
+[Voltar](#índice)
+
+---
 
 #### Task
 
@@ -402,9 +476,15 @@ de memória.
 Tuning, significando ajuste, é uma técnica usada para o melhoramento e
 otimização de aplicações informáticas. Tuning é a melhoria do desempenho de um
 sistema, sendo tipicamente um sistema computacional. A motivação para tal
-atividade quase sempre é um problema de desempenho. 
+atividade quase sempre é um problema de desempenho.
+
+---
 
 ### U
+
+[Voltar](#índice)
+
+---
 
 #### Unidade de Processamento Gráfico
 
