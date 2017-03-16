@@ -12,6 +12,7 @@ Caso queria falar com o **Professor Alfredo**, envie um e-mail para `gold@ime.us
 
 ### Conteúdo
 
-- [Aulas: Vídeos e Slides](./aulas.html)
+- [Aulas: Vídeos, Slides e Material Complementar](./aulas.html)
 - [EPs](./eps.html)
 - [Seminários](./seminarios.html)
+- [Glossário da Computação Paralela e Distribuída](./glossario.html)

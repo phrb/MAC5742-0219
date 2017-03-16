@@ -15,7 +15,7 @@ Esta página contém *links* para **vídeos e slides das aulas**.
 
 - [Vídeo](#aula-1-introdução-14032017) (Ainda não está *online*.)
 
-#### Material complementar:
+#### Material Complementar:
 
 - [Exponential Laws of Computing Growth](http://cacm.acm.org/magazines/2017/1/211094-exponential-laws-of-computing-growth/fulltext)
 - [40 Years of Microprocessor Trend Data](https://www.karlrupp.net/2015/06/40-years-of-microprocessor-trend-data/)
@@ -27,5 +27,10 @@ Esta página contém *links* para **vídeos e slides das aulas**.
 ### Aula 2: Arquitetura de Computadores 16/03/2017
 
 - [Vídeo](#aula-2-arquitetura-de-computadores-16032017) (Ainda não está *online*.)
+
+#### Material Complementar:
+
+- [Top500 Supercomputer List](https://www.top500.org/)
+- [The de Bruijn Card Trick](https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html)
 
 [Voltar para Lista de Aulas](#aulas)
