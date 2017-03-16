@@ -1,3 +1,8 @@
+### Glossário da Computação Concorrente, Paralela e Distribuída
+
+Este glossário foi elaborado pelos alunos do curso de MAC5742-0438, no
+primeiro semestre de 2015.
+
 ### A
 
 #### Apache Hama
