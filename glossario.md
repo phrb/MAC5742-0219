@@ -14,7 +14,7 @@ primeiro semestre de 2015.
 
 ### A
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -66,7 +66,7 @@ optimização ou aprendizado de máquina.
 
 ### C
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -118,7 +118,7 @@ computacional ao aproveitar a potência da unidade de processamento gráfico
 
 ### D
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -137,7 +137,7 @@ a classificação. Deep learning está intimamente ligado à big data
 
 ### G
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -186,7 +186,7 @@ determinado instante de tempo, durante a execução de um programa.
 
 ### I
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -199,7 +199,7 @@ Institute for Research in Computer Science and Automation)
 
 ### J
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -216,7 +216,7 @@ outros aspectos.
 
 ### L
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -235,7 +235,7 @@ ActionScript, GLSL, Julia, entre outras.
 
 ### M
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -335,7 +335,7 @@ comunicação, esse modelo tornou se cada dia mais irrealista.
 
 ### P
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -360,7 +360,7 @@ de um deferred, uma computação assíncrona ainda não concluída.
 
 ### R
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -395,7 +395,7 @@ nada no tempo de execução, praticidade é a chave[des].
 
 ### S
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -448,7 +448,7 @@ Uma biblioteca de programação para arquiteturas híbridas.
 
 ### T
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
@@ -484,7 +484,7 @@ atividade quase sempre é um problema de desempenho.
 
 ### U
 
-[Voltar](#índice)
+[Voltar](#Índice)
 
 ---
 
