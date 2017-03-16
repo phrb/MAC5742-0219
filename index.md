@@ -2,7 +2,7 @@
 
 Olá! Este é o site dos cursos **MAC5742 - Introdução à Computação Paralela e Distribuída** e **MAC0438 - Programação Concorrente**. Aqui você
 vai encontrar *links* para os vídeos e *slides* das aulas, EPs, seminários, bibliografia e demais materiais discutidos em aula. Todo o material
-também estará na nossa página página no [PACA](http://paca.ime.usp.br).
+também estará na nossa página no [PACA](http://paca.ime.usp.br).
 
 ### Contato
 

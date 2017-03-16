@@ -14,7 +14,7 @@ aulas.
 
 ### Aula 1: Introdução 14/03/2017
 
-- [Vídeo](#aula-1-introdução-14032017) (Ainda não está *online*.)
+- [Vídeo](https://goo.gl/photos/E2mRyuxvb4cr9AA77)
 
 #### Material Complementar:
 
@@ -27,7 +27,7 @@ aulas.
 
 ### Aula 2: Arquitetura de Computadores 16/03/2017
 
-- [Vídeo](#aula-2-arquitetura-de-computadores-16032017) (Ainda não está *online*.)
+- [Vídeo](https://goo.gl/photos/VittvNJ8tbLwUKJy6)
 
 #### Material Complementar:
 
