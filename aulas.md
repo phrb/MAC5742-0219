@@ -1,6 +1,7 @@
-## Aulas: Vídeos e Slides
+## Aulas: Vídeos, Slides e Material Complementar
 
-Esta página contém *links* para **vídeos e slides das aulas**.
+Esta página contém *links* para vídeos, slides e material complementar das
+aulas.
 
 [Voltar](./index.html)
 
