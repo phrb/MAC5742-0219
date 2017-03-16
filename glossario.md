@@ -3,6 +3,8 @@
 Este glossário foi elaborado pelos alunos do curso de MAC5742-0438, no
 primeiro semestre de 2015.
 
+[Voltar](./index.html)
+
 ### Índice
 
 [A](#a) B [C](#c) [D](#d) E F [G](#g) H [I](#i) [J](#j) K [L](#l) [M](#m) N O
