@@ -49,6 +49,7 @@ aulas.
 
 - [November 2016 Poster](./res/TOP500_201611_Poster.pdf)
 - [November 2016 Highlights](https://www.top500.org/lists/2016/11/highlights/)
+- [Bitcoin Network Processing Power](http://jasondrowley.com/2015/12/04/the-bitcoin-network-is-11000x-faster-than-the-top-500-supercomputers-combined/)
 
 ##### ERAD 2017
 
