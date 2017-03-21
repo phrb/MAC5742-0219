@@ -47,7 +47,7 @@ aulas.
 
 ##### TOP 500
 
-- [November 2016 Poster](https://www.top500.org/lists/2016/11/download/TOP500_201611_Poster.pdf)
+- [November 2016 Poster](./res/TOP500_201611_Poster.pdf)
 - [November 2016 Highlights](https://www.top500.org/lists/2016/11/highlights/)
 
 ##### ERAD 2017
