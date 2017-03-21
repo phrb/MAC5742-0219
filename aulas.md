@@ -41,10 +41,13 @@ aulas.
 
 ### Aula 3: Mais sobre Arquitetura de Computadores & Modelos de Paralelismo 21/03/2017
 
-- [Vídeo]()
+- Vídeo (ainda não está *online*)
 
 #### Material Complementar:
 
--
+- [ERAD 2017](http://www.erad-sp.org)
+- [List of Intel Microprocessors](https://en.wikipedia.org/wiki/List_of_Intel_microprocessors)
+- [List of Intel Xeon Microprocessors](https://en.wikipedia.org/wiki/List_of_Intel_Xeon_microprocessors)
+- [Intel 64-bit Processors, starting at Nehalem](https://en.wikipedia.org/wiki/List_of_Intel_microprocessors#64-bit_processors:_Intel_64_.E2.80.93_Nehalem_microarchitecture)
 
 [Voltar para Lista de Aulas](#aulas)
