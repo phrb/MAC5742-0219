@@ -9,7 +9,7 @@ aulas.
 
 - [Aula 1: Introdução 14/03/2017](#aula-1-introdução-14032017)
 - [Aula 2: Arquitetura de Computadores 16/03/2017](#aula-2-arquitetura-de-computadores-16032017)
-- [Aula 3: Mais sobre Arquitetura de Computadores & Modelos de Paralelismo 21/03/2017](#aula-3-mais-sobre-arquitetura-de-computadores--modelos-de-paralelismo-21032017)
+- [Aula 3: Mais sobre Arquitetura de Computadores 21/03/2017](#aula-3-mais-sobre-arquitetura-de-computadores-21032017)
 
 ---
 
@@ -39,7 +39,7 @@ aulas.
 
 ---
 
-### Aula 3: Mais sobre Arquitetura de Computadores & Modelos de Paralelismo 21/03/2017
+### Aula 3: Mais sobre Arquitetura de Computadores 21/03/2017
 
 - Vídeo (ainda não está *online*)
 
@@ -54,6 +54,8 @@ aulas.
 ##### ERAD 2017
 
 - [ERAD 2017](http://www.erad-sp.org)
+- Tranporte e alojamento (sem cama) gratuitos
+- Se quiser participar entre em contato com o monitor: `pedro.bruel@gmail.com`
 
 ##### Listas de Microprocessadores
 
