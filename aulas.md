@@ -41,7 +41,7 @@ aulas.
 
 ### Aula 3: Mais sobre Arquitetura de Computadores 21/03/2017
 
-- Vídeo (ainda não está *online*)
+- [Vídeo](https://goo.gl/photos/fH1e7ch6QqgjYktt5)
 
 #### Material Complementar:
 
