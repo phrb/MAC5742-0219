@@ -45,10 +45,23 @@ aulas.
 
 #### Material Complementar:
 
+##### ERAD 2017
+
 - [ERAD 2017](http://www.erad-sp.org)
+
+##### Listas de Microprocessadores
+
 - [List of Intel Microprocessors](https://en.wikipedia.org/wiki/List_of_Intel_microprocessors)
+- [List of AMD Microprocessors](https://en.wikipedia.org/wiki/List_of_AMD_microprocessors)
+- [List of ARM Microprocessors](https://en.wikipedia.org/wiki/List_of_ARM_microarchitectures)
 - [List of Intel Xeon Microprocessors](https://en.wikipedia.org/wiki/List_of_Intel_Xeon_microprocessors)
 - [Intel 64-bit Processors, starting at Nehalem](https://en.wikipedia.org/wiki/List_of_Intel_microprocessors#64-bit_processors:_Intel_64_.E2.80.93_Nehalem_microarchitecture)
+
+##### Novas Tecnologias e Limitações
+
+- [Artigo na Revista Nature: Ultimate physical limits to computation](https://arxiv.org/pdf/quant-ph/9908043.pdf)
+- [Tunelamento Quântico em Transistores: The Tunneling Transistor](http://spectrum.ieee.org/semiconductors/devices/the-tunneling-transistor)
+- [Xeon-Phi](https://en.wikipedia.org/wiki/Xeon_Phi)
 - [Memristor](https://en.wikipedia.org/wiki/Memristor)
 
 [Voltar para Lista de Aulas](#aulas)
