@@ -17,7 +17,7 @@ pode ir aprendendo sobre a ferramenta perf do Linux.
 
 No *link* acima você vai encontrar um tutorial sobre o *perf-stat*, que serve
 para medir diversas métricas da execução de programas no Linux. A ideia é
-usarmos o *perf-stat* para obter as medições de desempenho nos EPs:
+usarmos o *perf-stat* para obter as medições de desempenho nos EPs.
 
 ---
 
