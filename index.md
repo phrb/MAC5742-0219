@@ -10,6 +10,16 @@ O monitor dos dois cursos é o **Pedro Bruel**. Fique à vontade para enviar e-m
 
 Caso queria falar com o **Professor Alfredo**, envie um e-mail para `gold@ime.usp.br`.
 
+### ERAD 2017
+
+A [Escola Regional de Alto Desempenho de São Paulo](http://www.erad-sp.org)
+(ERAD-SP) é um evento promovido pela Sociedade Brasileira de Computação (SBC) e
+pela Comissão Regional de Alto Desempenho de São Paulo (CRADSP).
+
+O ERAD-SP 2017 será em São Carlos. Terá alojamento e transporte gratuitos
+para alunos da USP. Se você quiser participar entre em contato com o monitor
+através do e-mail `pedro.bruel@gmail.com`.
+
 ### Conteúdo
 
 - [Aulas: Vídeos, Slides e Material Complementar](./aulas.html)
