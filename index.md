@@ -16,9 +16,9 @@ A [Escola Regional de Alto Desempenho de São Paulo](http://www.erad-sp.org)
 (ERAD-SP) é um evento promovido pela Sociedade Brasileira de Computação (SBC) e
 pela Comissão Regional de Alto Desempenho de São Paulo (CRADSP).
 
-O ERAD-SP 2017 será em São Carlos. Terá alojamento e transporte gratuitos
-para alunos da USP. Se você quiser participar entre em contato com o monitor
-através do e-mail `pedro.bruel@gmail.com`.
+A ERAD-SP 2017 será em São Carlos. Terá alojamento e transporte gratuitos
+para alunos da USP. Se você quiser se cadastrar no transporte e alojamento,
+preencha o [formulário de inscrição](https://goo.gl/forms/A2hi4Uc7i5nMU1cr1).
 
 ### Conteúdo
 
