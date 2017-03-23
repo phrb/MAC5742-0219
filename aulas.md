@@ -48,7 +48,7 @@ aulas.
 
 ##### TOP 500
 
-- [November 2016 Poster](./res/TOP500_201611_Poster.pdf)
+- [November 2016 Poster](http://paca.ime.usp.br/pluginfile.php/116791/mod_resource/content/1/TOP500_201611_Poster.pdf)
 - [November 2016 Highlights](https://www.top500.org/lists/2016/11/highlights/)
 - [Bitcoin Network Processing Power](http://jasondrowley.com/2015/12/04/the-bitcoin-network-is-11000x-faster-than-the-top-500-supercomputers-combined/)
 
@@ -85,7 +85,7 @@ aulas.
 ### Aula 4: Modelos para Computação Paralela 23/03/2017
 
 - [Vídeo](https://goo.gl/photos/S44SBaDPD2bPZCSQ8)
-- Slides
+- [Slides](http://paca.ime.usp.br/pluginfile.php/118368/mod_resource/content/1/aula4.pdf)
 
 #### Material Complementar:
 
