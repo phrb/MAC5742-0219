@@ -10,6 +10,7 @@ aulas.
 - [Aula 1: Introdução 14/03/2017](#aula-1-introdução-14032017)
 - [Aula 2: Arquitetura de Computadores 16/03/2017](#aula-2-arquitetura-de-computadores-16032017)
 - [Aula 3: Mais sobre Arquitetura de Computadores 21/03/2017](#aula-3-mais-sobre-arquitetura-de-computadores-21032017)
+- [Aula 4: Modelos para Computação Paralela 23/03/2017](#aula-4-modelos-para-computação-paralela-23032017)
 
 ---
 
@@ -76,5 +77,19 @@ aulas.
 - [Artigo na IEEE Spectrum: The Tunneling Transistor](http://spectrum.ieee.org/semiconductors/devices/the-tunneling-transistor)
 - [Xeon-Phi](https://en.wikipedia.org/wiki/Xeon_Phi)
 - [Memristor](https://en.wikipedia.org/wiki/Memristor)
+
+[Voltar para Lista de Aulas](#aulas)
+
+---
+
+### Aula 4: Modelos para Computação Paralela 23/03/2017
+
+- Vídeo
+- Slides
+
+#### Material Complementar:
+
+- [Turing Machines](https://en.wikipedia.org/wiki/Turing_machine)
+- [Von Neumann Architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 
 [Voltar para Lista de Aulas](#aulas)
