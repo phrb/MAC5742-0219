@@ -84,7 +84,7 @@ aulas.
 
 ### Aula 4: Modelos para Computação Paralela 23/03/2017
 
-- Vídeo
+- [Vídeo](https://goo.gl/photos/S44SBaDPD2bPZCSQ8)
 - Slides
 
 #### Material Complementar:
