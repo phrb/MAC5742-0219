@@ -20,9 +20,3 @@ para medir diversas métricas da execução de programas no Linux. A ideia é
 usarmos o *perf-stat* para obter as medições de desempenho nos EPs.
 
 ---
-
-### EPs 
-
-- EP1
-
----
