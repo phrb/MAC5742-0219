@@ -23,6 +23,8 @@ usarmos o *perf-stat* para obter as medições de desempenho nos EPs.
 
 ### EP1
 
+#### Questionário
+
 Preparamos um questionário para saber mais sobre o conhecimento de vocês com as
 tecnologias que pretendemos usar no EP1.
 
