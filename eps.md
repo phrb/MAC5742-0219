@@ -29,9 +29,7 @@ tecnologias que pretendemos usar no EP1.
 O questionário está no Google Forms, e não é preciso estar logado nem se
 identificar. Vocês podem ver os resultados depois de responder.
 
-Para acessar o questionário, vá para:
-
-https://goo.gl/forms/In5mlaB74Okuu78v1
+[Responda o questionário aqui.](https://goo.gl/forms/In5mlaB74Okuu78v1)
 
 O questionário não é obrigatório, mas agradecemos as suas respostas!
 
