@@ -11,6 +11,7 @@ aulas.
 - [Aula 2: Arquitetura de Computadores 16/03/2017](#aula-2-arquitetura-de-computadores-16032017)
 - [Aula 3: Mais sobre Arquitetura de Computadores 21/03/2017](#aula-3-mais-sobre-arquitetura-de-computadores-21032017)
 - [Aula 4: Modelos para Computação Paralela 23/03/2017](#aula-4-modelos-para-computação-paralela-23032017)
+- [Aula 5: FPGAs, GPUs e Xeon Phi 27/03/2017](#aula-5-fpgas-gpus-e-xeon-phi-27032017)
 
 ---
 
@@ -91,5 +92,20 @@ aulas.
 
 - [Turing Machines](https://en.wikipedia.org/wiki/Turing_machine)
 - [Von Neumann Architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+
+[Voltar para Lista de Aulas](#aulas)
+
+---
+
+### Aula 5: FPGAs, GPUs e Xeon Phi 27/03/2017
+
+- Vídeo
+- [Slides](https://github.com/phrb/MAC5742-0219-fpgas-gpus-xeonphi/raw/master/fpgas-gpus-xeonphi.pdf)
+
+#### Material Complementar:
+
+- [FPGAs for Dummies](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/misc/fpgas_for_dummies_ebook.pdf) (2017)
+- [The design warrior's guide to FPGAs: devices, tools and flows](https://www.elsevier.com/books/the-design-warriors-guide-to-fpgas/maxfield/978-0-7506-7604-5) (2004)
+- [High-performance computing using FPGAs](https://www.springer.com/br/book/9781461417903) (2013, **Avançado**)
 
 [Voltar para Lista de Aulas](#aulas)
