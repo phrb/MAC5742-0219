@@ -99,7 +99,7 @@ aulas.
 
 ### Aula 5: FPGAs, GPUs e Xeon Phi 27/03/2017
 
-- Vídeo
+- [Vídeo](https://goo.gl/photos/BbbARhDScMq8iqHu5)
 - [Slides](https://github.com/phrb/MAC5742-0219-fpgas-gpus-xeonphi/raw/master/fpgas-gpus-xeonphi.pdf)
 
 #### Material Complementar:
