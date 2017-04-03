@@ -117,4 +117,11 @@ aulas.
 
 - [Vídeo](https://goo.gl/photos/mJHQRhQCENhJG8VcA)
 
+---
+
+### Aula 7: POSIX Threads, EP1, Desafios
+
+- Vídeo
+- [Slides](https://github.com/phrb/aula-pthreads/raw/master/src/presentation.pdf)
+
 [Voltar para Lista de Aulas](#aulas)
