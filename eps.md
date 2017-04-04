@@ -3,10 +3,6 @@
 Esta página contém *links* para os enunciados e materiais necessários para os
 **EPs**.
 
-Ainda não temos EPs. O primeiro EP será publicado em breve, se cadastre no
-Fórum de Avisos do curso no PACA para receber notícias. Enquanto isso, você
-pode ir aprendendo sobre a ferramenta *perf* do Linux.
-
 [Voltar](./index.html)
 
 ---
@@ -23,16 +19,15 @@ usarmos o *perf-stat* para obter as medições de desempenho nos EPs.
 
 ### EP1
 
-#### Questionário
+O enunciado do EP1 já está disponível. Por favor, cadastre seu grupo no
+formulário antes de começar a trabalhar no EP1.
 
-Preparamos um questionário para saber mais sobre o conhecimento de vocês com as
-tecnologias que pretendemos usar no EP1.
-
-O questionário está no Google Forms, e não é preciso estar logado nem se
-identificar. Vocês podem ver os resultados depois de responder.
-
-[Responda o questionário aqui.](https://goo.gl/forms/In5mlaB74Okuu78v1)
-
-O questionário não é obrigatório, mas agradecemos as suas respostas!
+- [Formulário para Cadastro de Grupos](https://goo.gl/forms/DaSDWDeroNgFbcdv1)
+- [Documentação da Google Compute Engine](https://cloud.google.com/compute/docs/)
+- [Enunciado](https://github.com/phrb/MAC5742-0219-EP1/raw/master/doc/enunciado_ep1.pdf)
+- [Repositório Git](https://github.com/phrb/MAC5742-0219-EP1)
+- [Arquivos do Repositório (zip)](https://github.com/phrb/MAC5742-0219-EP1/archive/1.0.zip)
+- [Arquivos do Repositório (tar.gz)](https://github.com/phrb/MAC5742-0219-EP1/archive/1.0.tar.gz)
+- [Questionário sobre Tecnologias](https://goo.gl/forms/In5mlaB74Okuu78v1)
 
 ---
