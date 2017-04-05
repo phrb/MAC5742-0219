@@ -103,7 +103,7 @@ aulas.
 ### Aula 5: FPGAs, GPUs e Xeon Phi 28/03/2017
 
 - [Vídeo](https://goo.gl/photos/BbbARhDScMq8iqHu5)
-- [Slides](https://github.com/phrb/MAC5742-0219-fpgas-gpus-xeonphi/raw/master/fpgas-gpus-xeonphi.pdf)
+- [Slides](https://github.com/phrb/aula-fpgas-gpus-xeonphi/raw/master/fpgas-gpus-xeonphi.pdf)
 
 #### Material Complementar:
 
@@ -133,6 +133,6 @@ aulas.
 
 ### Aula 8: Pthreads e OpenMP 06/04/2017
 
-- [Slides](https://github.com/phrb/aula-pthreads/raw/master/src/presentation.pdf)
+- [Slides](https://github.com/phrb/aula-pthreads-openmp/raw/master/pthreads-openmp.pdf)
 
 [Voltar para Lista de Aulas](#aulas)
