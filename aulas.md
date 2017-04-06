@@ -14,7 +14,7 @@ aulas.
 - [Aula 5: FPGAs, GPUs e Xeon Phi 28/03/2017](#aula-5-fpgas-gpus-e-xeon-phi-28032017)
 - [Aula 6: Introdução à Concorrência 30/03/2017](#aula-6-introdução-à-concorrência-30032017)
 - [Aula 7: EP1, Desafios 04/04/2017](#aula-7-ep1-desafios-04042017)
-- [Aula 8: Pthreads e OpenMP 06/04/2017](#aula-8-pthreads-e-openmp-06042017)
+- [Aula 8: Pthreads 06/04/2017](#aula-8-pthreads-06042017)
 
 ---
 
@@ -131,8 +131,9 @@ aulas.
 
 ---
 
-### Aula 8: Pthreads e OpenMP 06/04/2017
+### Aula 8: Pthreads 06/04/2017
 
+- [Vídeo](https://goo.gl/photos/PpLA7v53aLPN6ZwXA)
 - [Slides](https://github.com/phrb/aula-pthreads-openmp/raw/master/pthreads-openmp.pdf)
 
 [Voltar para Lista de Aulas](#aulas)
