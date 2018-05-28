@@ -16,6 +16,8 @@ aulas.
 - [Aula 7: EP1, Desafios 04/04/2017](#aula-7-ep1-desafios-04042017)
 - [Aula 8: Pthreads 06/04/2017](#aula-8-pthreads-06042017)
 - [Aula 9: OpenMP 18/04/2017](#aula-9-openmp-18042017)
+- [Aula 10: Sessão Crítica 20/04/2017](#aula-10-sessão-crítica-20042017)
+- [Aulas 11-12: Sessão Crítica 2-3 25/04/2017 & 27/04/2017](#aulas-11-12-sessão-crítica-2-3-25042017-27042017)
 
 ---
 
@@ -136,6 +138,7 @@ aulas.
 
 - [Vídeo](https://goo.gl/photos/PpLA7v53aLPN6ZwXA)
 - [Slides](https://github.com/phrb/aula-pthreads-openmp/raw/master/pthreads-openmp.pdf)
+- [Exemplos de Código](https://github.com/phrb/aula-pthreads-openmp)
 
 [Voltar para Lista de Aulas](#aulas)
 
@@ -145,5 +148,17 @@ aulas.
 
 - [Vídeo](https://goo.gl/photos/M9z3Q8JJBC5SkjTY9)
 - [Slides](https://github.com/phrb/aula-pthreads-openmp/raw/master/pthreads-openmp.pdf)
+- [Exemplos de Código](https://github.com/phrb/aula-pthreads-openmp)
 
 [Voltar para Lista de Aulas](#aulas)
+
+### Aula 10: Sessão Crítica 20/04/2017
+
+- [Vídeo](https://goo.gl/photos/h7dp6t4smbDfKxuC8)
+
+[Voltar para Lista de Aulas](#aulas)
+
+### Aulas 11-12: Sessão Crítica 2-3 25/04/2017 & 27/04/2017
+
+- Não conseguimos filmar essas duas aulas pois tivemos problemas técnicos com a
+  filmadora
