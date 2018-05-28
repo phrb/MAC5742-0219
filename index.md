@@ -24,5 +24,5 @@ preencha o [formulário de inscrição](https://goo.gl/forms/A2hi4Uc7i5nMU1cr1).
 
 - [Aulas: Vídeos, Slides e Material Complementar](./aulas.html)
 - [EPs](./eps.html)
-- [Seminários](./seminarios.html)
+- [Seminários & Monografias](./seminarios.html)
 - [Glossário da Computação Paralela e Distribuída](./glossario.html)
