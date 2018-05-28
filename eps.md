@@ -34,7 +34,7 @@ usarmos o *perf-stat* para obter as medições de desempenho nos EPs.
 
 ### EP3
 
-- [Enunciado](https://github.com/phrb/MAC5742-0219-EP1/raw/master/doc/enunciado_ep3.pdf)
+- [Enunciado](https://github.com/phrb/MAC5742-0219-EP3/raw/master/enunciado_ep3.pdf)
 - [Repositório Git](https://github.com/phrb/MAC5742-0219-EP3)
 
 ---
