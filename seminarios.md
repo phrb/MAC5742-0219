@@ -6,6 +6,25 @@ por professores e estudantes.
 
 [Voltar](./index.html)
 
+- [C++ 14/17](#c-1417)
+- [MapReduce](#mapreduce)
+- [Clojure](#clojure)
+- [Rust](#rust)
+- [Energy Consumption: Challenges & Solutions](#energy-consumption-challenges--solutions)
+- [HPC em Simulações Moleculares](#hpc-em-simulações-moleculares)
+- [Computação Quântica](#computação-quântica)
+- [Linguagens Funcionais](#linguagens-funcionais)
+- [Gordon Bell Prize](#gordon-bell-prize)
+- [Go](#go)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Elixir](#elixir)
+- [HPC's Impact on Society](hpcs-impact-on-society)
+- [Julia](#julia)
+- [Volunteer Computing](#volunteer-computing)
+- [Energy Efficiency in Data Centers](#energy-efficiency-in-data-centers)
+- [Accelerators for Deep Learning](#accelerators-for-deep-learning)
+- [Cognitive Computing](#cognitive-computing)
+
 ### Dia 1: 06/06/2017
 
 #### C++ 14/17
@@ -107,4 +126,5 @@ por professores e estudantes.
 - [Monografia](https://www.dropbox.com/s/sxt8hed9363g16j/report.pdf?dl=0)
 
 [Voltar](./index.html)
+
 [Voltar ao Topo](#seminários-e-monografias)
