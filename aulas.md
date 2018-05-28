@@ -5,6 +5,8 @@ aulas.
 
 [Voltar](./index.html)
 
+---
+
 ### Aulas
 
 - [Aula 1: Introdução 14/03/2017](#aula-1-introdução-14032017)
@@ -159,11 +161,15 @@ aulas.
 
 [Voltar para Lista de Aulas](#aulas)
 
+---
+
 ### Aula 10: Sessão Crítica 20/04/2017
 
 - [Vídeo](https://goo.gl/photos/h7dp6t4smbDfKxuC8)
 
 [Voltar para Lista de Aulas](#aulas)
+
+---
 
 ### Aulas 11-12: Sessão Crítica 2-3 25/04/2017 & 27/04/2017
 
@@ -172,17 +178,23 @@ aulas.
 
 [Voltar para Lista de Aulas](#aulas)
 
+---
+
 ### Aula 13: Sessão Crítica 4 02/05/2017
 
 - [Vídeo](https://goo.gl/photos/XMBuPHdLioaZZQhw6)
 
 [Voltar para Lista de Aulas](#aulas)
 
+---
+
 ### Aula 14: Barreiras 04/05/2017
 
 - [Vídeo](https://goo.gl/photos/woLs6RTdqH9Z9iSu8)
 
 [Voltar para Lista de Aulas](#aulas)
+
+---
 
 ### Aula 15: Introdução a CUDA 1 09/05/2017
 
@@ -192,6 +204,8 @@ aulas.
 
 [Voltar para Lista de Aulas](#aulas)
 
+---
+
 ### Aula 16: Introdução a CUDA 2 11/05/2017
 
 - [Vídeo](https://goo.gl/photos/xbhVPo1PkbUBH8vX6)
@@ -200,6 +214,8 @@ aulas.
 
 [Voltar para Lista de Aulas](#aulas)
 
+---
+
 ### Aula 17: Message Passing Interface 23/05/2017
 
 - [Vídeo](https://goo.gl/photos/1ejfJYTc46hFt4NQ7)
@@ -207,6 +223,8 @@ aulas.
 - [Repositório Git com Exemplos](https://github.com/phrb/aula-mpi)
 
 [Voltar para Lista de Aulas](#aulas)
+
+---
 
 ### Aula 18: LLVM e Paralelização Automática 25/05/2017
 
@@ -217,6 +235,8 @@ aulas.
 
 [Voltar para Lista de Aulas](#aulas)
 
+---
+
 ### Aula 19: Limites da Computação 30/05/2017
 
 - [Vídeo](https://goo.gl/photos/G5DhMDz3fY9ctdKUA)
@@ -225,5 +245,7 @@ aulas.
 - [MOSFET (Wiki)](https://en.wikipedia.org/wiki/MOSFET)
 - [MuGFET (Wiki)](https://en.wikipedia.org/wiki/Multigate_device)
 - [HPE The Machine](https://www.labs.hpe.com/the-machine)
+
+---
 
 [Voltar para Lista de Aulas](#aulas)

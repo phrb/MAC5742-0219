@@ -6,6 +6,10 @@ por professores e estudantes.
 
 [Voltar](./index.html)
 
+---
+
+### Temas
+
 - [C++ 14/17](#c-1417)
 - [MapReduce](#mapreduce)
 - [Clojure](#clojure)
@@ -25,6 +29,8 @@ por professores e estudantes.
 - [Accelerators for Deep Learning](#accelerators-for-deep-learning)
 - [Cognitive Computing](#cognitive-computing)
 
+---
+
 ### Dia 1: 06/06/2017
 
 #### C++ 14/17
@@ -41,6 +47,8 @@ por professores e estudantes.
 
 - [Seminário](https://www.dropbox.com/s/tcbqgnp6k200pkl/presentation.pdf?dl=0)
 - [Monografia](https://www.dropbox.com/s/tleijikkss7pyno/report.pdf?dl=0)
+
+---
 
 ### Dia 2: 08/06/2017
 
@@ -59,6 +67,8 @@ por professores e estudantes.
 - [Seminário](https://www.dropbox.com/s/jjw8yxma4tloqdm/presentation.pdf?dl=0)
 - [Monografia](https://www.dropbox.com/s/1ope3z7yrrwgqb5/report.pdf?dl=0)
 
+---
+
 ### Dia 3: 20/06/2017
 
 #### Computação Quântica
@@ -74,6 +84,8 @@ por professores e estudantes.
 #### Gordon Bell Prize
 
 - [Monografia](https://www.dropbox.com/s/94th165d2otfo9z/report.pdf?dl=0)
+
+---
 
 ### Dia 4: 22/06/2017
 
@@ -92,6 +104,8 @@ por professores e estudantes.
 - [Seminário](https://www.dropbox.com/s/sfqru4fh9bgw1n6/presentation.pdf?dl=0)
 - [Monografia](https://www.dropbox.com/s/xa62swhndcogir2/report.pdf?dl=0)
 
+---
+
 ### Dia 5: 27/06/2017
 
 #### HPC's Impact on Society
@@ -107,6 +121,8 @@ por professores e estudantes.
 
 - [Seminário](https://www.dropbox.com/s/i4xtp17qtu1wmkc/presentation.pdf?dl=0)
 - [Monografia](https://www.dropbox.com/s/i4w94ro91add2hq/report.pdf?dl=0)
+
+---
 
 ### Dia 6: 29/06/2017
 
@@ -124,6 +140,8 @@ por professores e estudantes.
 
 - [Seminário](https://www.dropbox.com/s/lfd2jdxqfjchc6c/presentation.pdf?dl=0)
 - [Monografia](https://www.dropbox.com/s/sxt8hed9363g16j/report.pdf?dl=0)
+
+---
 
 [Voltar](./index.html)
 
