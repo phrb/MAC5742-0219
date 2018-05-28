@@ -17,7 +17,14 @@ aulas.
 - [Aula 8: Pthreads 06/04/2017](#aula-8-pthreads-06042017)
 - [Aula 9: OpenMP 18/04/2017](#aula-9-openmp-18042017)
 - [Aula 10: Sessão Crítica 20/04/2017](#aula-10-sessão-crítica-20042017)
-- [Aulas 11-12: Sessão Crítica 2-3 25/04/2017 & 27/04/2017](#aulas-11-12-sessão-crítica-2-3-25042017-27042017)
+- [Aulas 11-12: Sessão Crítica 2-3 25/04/2017 & 27/04/2017](#aulas-11-12-sessão-crítica-2-3-25042017--27042017)
+- [Aula 13: Sessão Crítica 4 02/05/2017](#aula-13-sessão-crítica-4-02052017)
+- [Aula 14: Barreiras 04/05/2017](#aula-14-barreiras-04052017)
+- [Aula 15: Introdução a CUDA 1 09/05/2017](#aula-15-introdução-a-cuda-1-09052017)
+- [Aula 16: Introdução a CUDA 2 11/05/2017](#aula-16-introdução-a-cuda-2-11052017)
+- [Aula 17: Message Passing Interface 23/05/2017](#aula-17-message-passing-interface-23052017)
+- [Aula 18: LLVM e Paralelização Automática 25/05/2017](#aula-18-llvm-e-paralelização-automática-25052017)
+- [Aula 19: Limites da Computação 30/05/2017](#aula-19-limites-da-computação-30052017)
 
 ---
 
@@ -138,7 +145,7 @@ aulas.
 
 - [Vídeo](https://goo.gl/photos/PpLA7v53aLPN6ZwXA)
 - [Slides](https://github.com/phrb/aula-pthreads-openmp/raw/master/pthreads-openmp.pdf)
-- [Exemplos de Código](https://github.com/phrb/aula-pthreads-openmp)
+- [Repositório Git com Exemplos](https://github.com/phrb/aula-pthreads-openmp)
 
 [Voltar para Lista de Aulas](#aulas)
 
@@ -148,7 +155,7 @@ aulas.
 
 - [Vídeo](https://goo.gl/photos/M9z3Q8JJBC5SkjTY9)
 - [Slides](https://github.com/phrb/aula-pthreads-openmp/raw/master/pthreads-openmp.pdf)
-- [Exemplos de Código](https://github.com/phrb/aula-pthreads-openmp)
+- [Repositório Git com Exemplos](https://github.com/phrb/aula-pthreads-openmp)
 
 [Voltar para Lista de Aulas](#aulas)
 
@@ -162,3 +169,61 @@ aulas.
 
 - Não conseguimos filmar essas duas aulas pois tivemos problemas técnicos com a
   filmadora
+
+[Voltar para Lista de Aulas](#aulas)
+
+### Aula 13: Sessão Crítica 4 02/05/2017
+
+- [Vídeo](https://goo.gl/photos/XMBuPHdLioaZZQhw6)
+
+[Voltar para Lista de Aulas](#aulas)
+
+### Aula 14: Barreiras 04/05/2017
+
+- [Vídeo](https://goo.gl/photos/woLs6RTdqH9Z9iSu8)
+
+[Voltar para Lista de Aulas](#aulas)
+
+### Aula 15: Introdução a CUDA 1 09/05/2017
+
+- [Vídeo](https://goo.gl/photos/qVAxnFbMepAfFLd57)
+- [Slides](https://github.com/phrb/intro-cuda/raw/master/pdf/intro-cuda.pdf)
+- [Repositório Git com Exemplos](https://github.com/phrb/intro-cuda)
+
+[Voltar para Lista de Aulas](#aulas)
+
+### Aula 16: Introdução a CUDA 2 11/05/2017
+
+- [Vídeo](https://goo.gl/photos/xbhVPo1PkbUBH8vX6)
+- [Slides](https://github.com/phrb/intro-cuda/raw/master/pdf/intro-cuda.pdf)
+- [Repositório Git com Exemplos](https://github.com/phrb/intro-cuda)
+
+[Voltar para Lista de Aulas](#aulas)
+
+### Aula 17: Message Passing Interface 23/05/2017
+
+- [Vídeo](https://goo.gl/photos/1ejfJYTc46hFt4NQ7)
+- [Slides](https://github.com/phrb/aula-mpi/raw/master/src/aula-mpi.pdf)
+- [Repositório Git com Exemplos](https://github.com/phrb/aula-mpi)
+
+[Voltar para Lista de Aulas](#aulas)
+
+### Aula 18: LLVM e Paralelização Automática 25/05/2017
+
+- [Vídeo](https://goo.gl/photos/ZZgCyFLiTLV8E52p8)
+- [Slides](https://github.com/phrb/aula-llvm/raw/master/pdf/aula-llvm.pdf)
+- [Aula Completa do Rogério](https://github.com/phrb/aula-llvm/raw/master/pdf/aula-llvm-original.pdf)
+- [Repositório Git com Exemplos](https://github.com/phrb/aula-llvm)
+
+[Voltar para Lista de Aulas](#aulas)
+
+### Aula 19: Limites da Computação 30/05/2017
+
+- [Vídeo](https://goo.gl/photos/G5DhMDz3fY9ctdKUA)
+- [Power Wall](http://www.cs.virginia.edu/~skadron/Papers/skadron_cstb_sep07_dist.pdf)
+- [Roofline Model](https://crd.lbl.gov/assets/pubs_presos/parlab08-roofline-talk.pdf)
+- [MOSFET (Wiki)](https://en.wikipedia.org/wiki/MOSFET)
+- [MuGFET (Wiki)](https://en.wikipedia.org/wiki/Multigate_device)
+- [HPE The Machine](https://www.labs.hpe.com/the-machine)
+
+[Voltar para Lista de Aulas](#aulas)
