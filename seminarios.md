@@ -87,7 +87,7 @@ por professores e estudantes.
 #### Volunteer Computing
 
 - [Seminário](https://www.dropbox.com/s/i4xtp17qtu1wmkc/presentation.pdf?dl=0)
-- [Monografia]()https://www.dropbox.com/s/i4w94ro91add2hq/report.pdf?dl=0
+- [Monografia](https://www.dropbox.com/s/i4w94ro91add2hq/report.pdf?dl=0)
 
 ### Dia 6: 29/06/2017
 
